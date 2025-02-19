@@ -1,0 +1,24 @@
+div {
+    border: 0.1rem solid gray;
+    width: 15rem;
+    height: 30rem;
+    margin: 1rem auto;
+    padding: 0.9rem;
+    box-shadow: 0.8rem 0.3rem 0.9rem 0.3rem grey;
+}
+img{
+    width: 14.2rem;
+}
+p{
+    color: red;
+    width: 14.5rem;
+    height: 5%; 
+    border-radius: 10%
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 0.5rem 2rem;
+}
